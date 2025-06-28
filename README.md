@@ -5,8 +5,6 @@
 
 A real-time, gesture-controlled font editor that uses computer vision to manipulate font properties with your hand movements.
 
-![Demo Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3RzMnRjNTh2dTU1b2N6d216Z3R4cWd6Y2w5bXQ2b2Q2dDI0b2ZqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfOfvn2asw/giphy.gif)
-*(This is a placeholder animation. You can create a GIF of the application running and replace this link.)*
 
 ## 📜 Table of Contents
 - [Features](#-features)
